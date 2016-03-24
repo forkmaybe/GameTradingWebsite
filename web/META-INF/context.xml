@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/gamehub-project">
+<Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/database" password="" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/gamehub" username="root"/>
+</Context>
