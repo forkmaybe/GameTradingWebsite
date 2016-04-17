@@ -1,29 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Gamehub is a responsive game trading website.
+MVC design pattern was implemented.
+Factory command pattern was also used.
+Encrypted passwords, localization
 
-### What is this repository for? ###
+Java - Servlet, DAOs, DTOs, JDBC, connection pooling
+jsps
+MySql
+html
+css
+JavaScript
+Apache Tomcat
+JSTL Tag Library
+JUnit tests
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+You must import the database into phpmyadmin if you want to run this project.
