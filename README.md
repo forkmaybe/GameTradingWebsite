@@ -15,5 +15,4 @@ Apache Tomcat
 JSTL Tag Library
 JUnit tests
 
-
 You must import the database into phpmyadmin if you want to run this project.
