@@ -1,5 +1,5 @@
 # README #
-
+(Scrum 4 Man Team Project)
 Gamehub is a responsive game trading website.
 MVC design pattern was implemented.
 Factory command pattern was also used.
